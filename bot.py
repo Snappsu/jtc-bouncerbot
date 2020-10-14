@@ -1,5 +1,4 @@
 import discord
-import time
 import asyncio
 
 intents = discord.Intents.default()
