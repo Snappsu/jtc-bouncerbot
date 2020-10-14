@@ -1,5 +1,6 @@
 import discord
 import asyncio
+import os
 
 intents = discord.Intents.default()
 intents.members = True
