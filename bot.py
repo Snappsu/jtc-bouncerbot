@@ -42,4 +42,4 @@ async def on_ready():
 	
 
 
-client.run('NzY1MDUyNzYyMTY5MDE2MzUx.X4PM6A.UU3_hg4ItK5hQ8rrAD9pIjU-a8M')
+client.run(os.environ['botToken'])
